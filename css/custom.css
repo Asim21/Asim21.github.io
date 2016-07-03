@@ -40,8 +40,9 @@ footer{
 
 #back-to-top{
 	bottom: 20px;
-    right: 20px;
+	right: 20px;
     position: fixed;
+    display:none;
 }
 #back-to-top a{
 	color: #333
