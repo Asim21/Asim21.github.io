@@ -38,6 +38,14 @@ footer{
 	background-color: #f5f5f5;
 }
 
+#back-to-top{
+	bottom: 20px;
+    right: 20px;
+    position: fixed;
+}
+#back-to-top a{
+	color: #333
+}
 
 .homepage{
 	text-align: center;
@@ -129,3 +137,5 @@ footer{
 	}
 
 }
+
+    
